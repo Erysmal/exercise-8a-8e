@@ -87,6 +87,7 @@ body {
   }
   /****uber ride****/
   .uber-container {
+    overflow:hidden;
     padding-top:20px;
     margin:0 auto;
     border-width:1px;
